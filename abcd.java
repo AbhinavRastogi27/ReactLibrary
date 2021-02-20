@@ -4,8 +4,6 @@ class abcd{
 
     System.out.println("Line added from VS CODE");
 
-    System.out.println("Line added from VS CODE");
-
     System.out.println("After additon of Public Key into GitHub");
 
   }
